@@ -38,6 +38,7 @@ public class Testing extends Application {
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
         primaryStage.show();
+        System.out.println("testing....");
     }
 
     /**
